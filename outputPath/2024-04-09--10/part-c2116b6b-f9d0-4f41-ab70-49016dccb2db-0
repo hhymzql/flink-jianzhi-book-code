@@ -1,0 +1,6 @@
+com.example.util.pojo.WaterSensor{id='sensor_1', vc=111, ts=11}
+com.example.util.pojo.WaterSensor{id='sensor_1', vc=122, ts=12}
+com.example.util.pojo.WaterSensor{id='sensor_2', vc=211, ts=21}
+com.example.util.pojo.WaterSensor{id='sensor_2', vc=222, ts=22}
+com.example.util.pojo.WaterSensor{id='sensor_3', vc=31, ts=3}
+com.example.util.pojo.WaterSensor{id='sensor_4', vc=41, ts=4}
